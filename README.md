@@ -21,3 +21,13 @@ In this Project I will be building a home lab from a raspberry Pi 5. All parts w
 - []Wireshark Packet Analysis
 - []Pi-hole DNS SinkHole
 - []More...
+
+# Project Status
+- Repository Created - June 13, 2026
+- Hardware ordered - June 13, 2026
+- Waiting for delivery
+- Hardware Assembly
+- Respberry Pi OS Installation
+- Startup Configurations
+- Neetwork Analysis
+- Project Complete
