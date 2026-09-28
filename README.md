@@ -3,15 +3,21 @@
 #Bryant Palmero
 
 #Project Overview: 🥅
-In this Project I will be building a home lab from a raspberry Pi 5. All parts were chosen based on quality, reliability, and plans on expansion for future projects. This is my first Project into the start of this whole journey. In depth description on why certain parts were chosen will be explained as well as challenges faced, lessons learned and I will be documenting everything from start to finish.
 
+This project documents the complete build and setup of my Respberry Pi 5 cybersecurity home lab. I built this raspberry pi as a protected environment where I can develop practical skills for penetration testing, network analysis, system administration and security monotoring projects.
 
-## Hardware 💻
-- []Raspberry Pi 5
-- []Freenove NAS Case
-- []Kingston NV3 500GB NVMe SSD
-- []Alfa Network AWUS036AXML WiFi Adapter
-- []Raspberry Pi 27W USB-C Power Supply For Raspberry Pi 5 
+This repository documents my whole process form hardware selection and physical assembly to installing Rasberry Pi OS, configuring NVMe storage, troubleshooting problems, and getting the system fully operational. Rather than only showing th finished product, I will also document the challenges I encountered, how I solved them, and what I learned throughout the process. 
+
+## Hardware 🖥️
+
+| Component | Purpose |
+|---|---|
+| Raspberry Pi 5 (8GB) | Primary server and target system for the cybersecurity home lab |
+| Freenove NAS Case | Enclosure providing cooling, touchscreen integration, and NVMe expansion |
+| Kingston NV3 500GB NVMe SSD | Primary storage and boot drive for Raspberry Pi OS, applications, logs, and future lab environments |
+| Alfa Network AWUS036AXML Wi-Fi Adapter | External wireless adapter for future wireless networking and security labs |
+| Raspberry Pi 27W USB-C Power Supply | Provides stable power to the Raspberry Pi 5 and connected hardware |
+| 32GB SanDisk microSD Card | Used for the initial Raspberry Pi OS installation before migrating the system to NVMe storage |
 
 ## Projects I plan on building as a start (A ✅ = project has been completed)
 - []Install Raspberry Pi OS
